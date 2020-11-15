@@ -1,9 +1,0 @@
-# Site settings
-title: gclifford - Coming Soon!
-email: your-email@domain.com
-description: My site coming soon.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.gclifford.ca" # the base hostname & protocol for your site
-
-# Build settings
-markdown: kramdown
